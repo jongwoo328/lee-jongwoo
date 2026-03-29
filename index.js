@@ -11,11 +11,13 @@ const link = (s) => styleText(["blue", "underline"], s);
 
 const content = [
   `${name}`,
-  `${title}`,
+  `${title} @ ${val("Kakao Games")}`,
   "",
   `${label("Languages")}  : ${val("Java, Python, JavaScript, TypeScript")}`,
   `             ${val("HTML, CSS")}`,
   `${label("Frameworks")} : ${val("Spring Boot, Vue, Nuxt")}`,
+  `${label("Tools")}      : ${val("IntelliJ, Neovim, AWS, Vercel")}`,
+  `             ${val("Claude Code, Codex")}`,
   "",
   `${label("Email")}      : ${val("jongwoo328@gmail.com")}`,
   `${label("GitHub")}     : ${link("https://github.com/jongwoo328")}`,

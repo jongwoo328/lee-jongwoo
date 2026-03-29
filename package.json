@@ -1,6 +1,6 @@
 {
   "name": "lee-jongwoo",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Lee Jongwoo's developer profile — run npx lee-jongwoo to see it",
   "type": "module",
   "main": "index.js",

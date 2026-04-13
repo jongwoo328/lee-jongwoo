@@ -12,7 +12,7 @@ A profile card will show up right in your terminal.
 
 ## Requirements
 
-- Node.js >= 20.18.0 (if not, it's a sign to upgrade)
+- Node.js >= 22 (if not, it's a sign to upgrade)
 
 ## License
 
